@@ -11,3 +11,29 @@ Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse
 
 !ENTRY ch.qos.logback.classic 1 0 2026-03-03 13:50:31.420
 !MESSAGE Logback config file: /Users/sophialai/Documents/GitHub/Tic-Tac-Toe/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2026-03-05 11:08:05.260 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/sophialai/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/sophialai/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-05 11:08:06.685
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-05 11:08:07.619
+!MESSAGE Logback config file: /Users/sophialai/Documents/GitHub/Tic-Tac-Toe/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2026-03-05 11:09:13.450 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/sophialai/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/sophialai/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-05 11:09:14.382
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-05 11:09:15.148
+!MESSAGE Logback config file: /Users/sophialai/Documents/GitHub/Tic-Tac-Toe/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
